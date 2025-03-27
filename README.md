@@ -1,4 +1,4 @@
-# 🌿 Indoor Plantation E-Commerce
+# 🌿 Indoor Plantation E-Commerce (Work in Progress) 🚧
 
 Welcome to the **Indoor Plantation E-Commerce** project! This platform is designed to make buying indoor plants easier, offering a seamless shopping experience for plant lovers. 🌱🛒
 
